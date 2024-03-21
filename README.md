@@ -32,6 +32,8 @@ Utilisez les touches fléchées du clavier pour déplacer le vaisseau spatial ve
 Vous pouvez également utiliser la souris pour déplacer le vaisseau en cliquant et en faisant glisser dans la direction souhaitée.
 Objectif :
 L'objectif du jeu est de survivre le plus longtemps possible en évitant les collisions avec les obstacles générés aléatoirement. Chaque évitement réussi augmente votre score.
+![Good Game](images/gg.png)
+
 
 Menu :
 Au démarrage du jeu, un menu vous permet de démarrer une nouvelle partie, de quitter le jeu ou de consulter les scores précédents.
@@ -42,5 +44,6 @@ Contrôles simples et intuitifs avec les touches du clavier ou la souris.
 Système de score pour suivre votre performance au fil du temps.
 Menu convivial permettant de naviguer facilement dans le jeu.
 
+![Jeu de Vaisseau](images/game.png)
 
 Amusez-vous bien à jouer ! Si vous avez des suggestions d'amélioration ou des rapports de bug, n'hésitez pas à les signaler. Merci de votre soutien et de votre intérêt pour ce jeu.
