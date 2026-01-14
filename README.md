@@ -1,49 +1,61 @@
-# README.md - Galaxy
+# Galaxy - Endless Runner
 
-Bienvenue dans ce jeu de vaisseau développé en Python avec l'interface graphique Kivy ! Ce jeu vous permet de contrôler un petit vaisseau spatial qui doit esquiver les collisions en se déplaçant à l'aide des flèches du clavier ou de la souris. Le parcours est généré de manière aléatoire et infinie, offrant ainsi une expérience de jeu dynamique et variée.
+Welcome to **Galaxy**! This is a spaceship arcade game developed in Python using the Kivy framework.
 
-## Instructions
+Control a small spaceship, dodge collisions using the keyboard or mouse, and survive as long as possible. The track is procedurally generated and infinite, offering a dynamic and unique experience every time you play.
 
-Pour jouer au jeu, suivez ces étapes :
+## 🚀 Installation
 
-1. **Installation des prérequis :**
-   Assurez-vous d'avoir Python installé sur votre système. Ce jeu utilise la bibliothèque Kivy, veuillez l'installer en exécutant la commande suivante :
+Follow these steps to get the game running on your machine:
 
+**1. Prerequisites**
 
+Make sure you have Python installed on your system. This game relies on the **Kivy** library. You can install it by running the following command in your terminal:
 
-```
+```bash
 pip install kivy
 ```
 
+**2. Running the Game**
 
-2. **Lancement du jeu :**
-Une fois Kivy installé, exécutez le fichier `main.py` pour démarrer le jeu. Vous pouvez le faire en exécutant la commande suivante dans le répertoire du jeu :
+Once Kivy is installed, navigate to the game folder and execute the `main.py` file to start the game:
 
-
-
-
-```
+```bash
 python main.py
 ```
 
-Contrôles :
+## 🎮 How to Play
 
-Utilisez les touches fléchées du clavier pour déplacer le vaisseau spatial vers, la gauche ou la droite.
-Vous pouvez également utiliser la souris pour déplacer le vaisseau en cliquant et en faisant glisser dans la direction souhaitée.
-Objectif :
-L'objectif du jeu est de survivre le plus longtemps possible en évitant les collisions avec les obstacles générés aléatoirement. Chaque évitement réussi augmente votre score.
+### Controls
+
+- **Keyboard:** Use the **Left** and **Right** arrow keys to move the spaceship.
+- **Mouse / Touch:** Click and drag (or touch and slide) in the desired direction to steer the ship.
+
+### Objective
+
+The goal is to survive as long as possible by dodging the randomly generated obstacles. The further you go, the higher your score!
+
 ![Good Game](images/gg.png)
 
+### Menu
 
-Menu :
-Au démarrage du jeu, un menu vous permet de démarrer une nouvelle partie, de quitter le jeu ou de consulter les scores précédents.
+At startup, a main menu allows you to:
 
-Fonctionnalités
-Génération aléatoire de l'environnement de jeu pour une expérience différente à chaque partie.
-Contrôles simples et intuitifs avec les touches du clavier ou la souris.
-Système de score pour suivre votre performance au fil du temps.
-Menu convivial permettant de naviguer facilement dans le jeu.
+- Start a new game.
+- Check previous scores.
+- Quit the game.
 
-![Jeu de Vaisseau](images/game.png)
+## ✨ Features
 
-Amusez-vous bien à jouer ! Si vous avez des suggestions d'amélioration ou des rapports de bug, n'hésitez pas à les signaler. Merci de votre soutien et de votre intérêt pour ce jeu.
+- **Infinite Gameplay:** Procedural generation creates a unique environment for every run.
+- **Intuitive Controls:** Easy-to-learn inputs via keyboard or mouse.
+- **Score System:** Track your performance and try to beat your high score.
+- **Interactive Menu:** Simple navigation system.
+
+![Gameplay Screenshot](images/game.png)
+
+## ❤️ Feedback & Support
+
+Enjoy the game! If you have any suggestions for improvements or encounter any bugs, please feel free to open an issue or submit a pull request.
+
+Thank you for your interest and support!
